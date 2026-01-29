@@ -1,4 +1,4 @@
-# IA Entrevistador Simulador
+# Simulador IA Entrevistador
 Através de uma longa conversação com o ChatGPT cheguei a um prompt para o Copilot Web que simula uma entrevista com 5 perguntas fixas, porcentagem média da probabilidade de recrutamento, um parecer de pontos fortes e pontos fracos do candidato, e um resumo do candidato. A vaga de emprego aqui para exemplo foi para professor de música na UFPR, porém isso pode ser facilmente alterado para outros cargos em outras faculdades, o foco é especificamente para faculdades, apenas o tipo de cargo pode ser mudado. Segue o prompt:
 # 🎓 Prompt para IA Copilot — Entrevista Professor de Música (UFPR)
 
